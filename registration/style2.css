@@ -1,0 +1,49 @@
+body{
+    background-image: url(image/crop.jpg);
+    height: 100vh;
+    font-family: cursive;
+    background-position: center;
+    
+  
+ 
+}
+
+
+.Aboutform p{
+    color: black;
+}
+
+
+.section{
+    margin-top: 10%;
+    margin-left: 30%;
+    text-align: center;
+    border: 1px solid black ; width: 450px;
+    border-radius: 5px;
+    background-color: darkgray;
+    width: 450px;
+    
+    
+    
+}
+.type1{
+width: 300px;
+}
+.type2{
+    width: 300px;
+}
+.type3{
+    width: 300px;
+}
+.para{
+    color: aliceblue;
+}
+.btn{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background-color: darkcyan;
+    padding: 10px;
+    width: 150px;
+    border-radius: 10px;
+    border: 1px solid black;
+} 
